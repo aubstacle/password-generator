@@ -22,24 +22,21 @@ function writePassword() {
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
 
+
+// Add function that adds the strings together
 function generatePassword() {
   var passwordLength = prompt(
     "How long do you want your password to be? Min: 8 characters, Max: 128 characters"
   );
-  // console.log("your pw length is: " + passwordLength);
 
   if (passwordLength < 8 || passwordLength > 128) {
     prompt("Please choose number between 8-128 characters");
   }
 
   var confirmLowerCase = confirm("Do you want lower case letters?");
-  // console.log("lower case letters: " + confirmLowerCase);
   var confirmUpperCase = confirm("Do you want UPPER CASE LETTERS?");
-  // console.log("upper case letters: " + confirmUpperCase);
   var confirmNumbers = confirm("Do you want numbers?");
-  // console.log("numbers: " + confirmNumbers);
   var confirmSpecials = confirm("Do you want special characters?");
-  // console.log("special characters: " + confirmSpecials);
 
   if (
     confirmLowerCase === false &&
@@ -56,7 +53,7 @@ function generatePassword() {
   }
 
   if (confirmUpperCase === true) {
-    availableChars = availableChars + lowerCase;
+    availableChars = availableChars + upperCase;
   }
 
   if (confirmNumbers === true) {
