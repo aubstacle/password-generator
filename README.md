@@ -15,7 +15,7 @@ deployed application: https://aubstacle.github.io/password-generator/.
 ![Screenshot2](https://github.com/aubstacle/password-generator/blob/master/Assets/Screenshot2.png)
 
 ### Then a series of 4 confirms for which character types you want in your password
-(lowerCase confirm is shown, and is followed by uppeCase, numbers and special characters)
+(lowerCase confirm is shown, and is followed by upperCase, numbers and special characters)
 
 ![Screenshot3](https://github.com/aubstacle/password-generator/blob/master/Assets/Screenshot3.png)
 
