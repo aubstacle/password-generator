@@ -2,25 +2,25 @@
 
 
 ## Description
-Welcome to my Javascript Random Password Generator!! I was tasked with the challenge of creating a randomized password generator that sends the user through a series of prompts asking what types of characters to include in the password.
+Welcome to my Javascript Random Password Generator!! I was tasked with the challenge of creating a randomized password generator that sends the user through a series of prompts asking what types of characters to include in the password. Included character types are lower case and upper case letters, numbers 0-9 and 27 different special characters.
 
 deployed application: https://aubstacle.github.io/password-generator/.
 
 ## Screenshots
 
-### Inital page:
+### Starting point:
 ![Screenshot1](https://github.com/aubstacle/password-generator/blob/master/Assets/screenshot1.png)
 
-### First user prompt for password length
+### First user prompt for your password length
 ![Screenshot2](https://github.com/aubstacle/password-generator/blob/master/Assets/Screenshot2.png)
 
-### Then a series of 4 booleans confirming which character types you want
+### Then a series of 4 confirms for which character types you want in your password
+(lowerCase confirm is shown, and is followed by uppeCase, numbers and special characters)
 
 ![Screenshot3](https://github.com/aubstacle/password-generator/blob/master/Assets/Screenshot3.png)
 
-
-
-
+### And finally the generated password!!
+![Screenshot4](https://github.com/aubstacle/password-generator/blob/master/Assets/Screenshot4.png)
 
 ## Usage
 
