@@ -8,8 +8,18 @@ deployed application: https://aubstacle.github.io/password-generator/.
 
 ## Screenshots
 
-### Opening page:
+### Inital page:
 ![Screenshot1](https://github.com/aubstacle/password-generator/blob/master/Assets/screenshot1.png)
+
+### First user prompt for password length
+![Screenshot2](https://github.com/aubstacle/password-generator/blob/master/Assets/Screenshot2.png)
+
+### Then a series of 4 booleans confirming which character types you want
+
+![Screenshot3](https://github.com/aubstacle/password-generator/blob/master/Assets/Screenshot3.png)
+
+
+
 
 
 ## Usage
