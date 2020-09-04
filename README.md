@@ -9,7 +9,7 @@ deployed application: https://aubstacle.github.io/password-generator/.
 ## Screenshots
 
 ### Opening page:
-![Screenshot1](./assets/screenshot1.png)
+![Screenshot1](https://github.com/aubstacle/password-generator/blob/master/Assets/screenshot1.png)
 
 
 ## Usage
